@@ -27,3 +27,4 @@
 ### @tauri-controls/vue:
 
 - [ ] Maximize icon does not change when the window is maximized by double clicking on the titlebar (data-tauri-drag-region).
+test
